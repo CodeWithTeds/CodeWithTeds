@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a freelance Full-Stack Web Developer and <br>currently an AppSheet Automation Specialist. I'm also working <br>as a Software Engineer at Athenixis. <br>Proficient in the VILT/TALL stack and backend development.
+I'm a freelance Full-Stack Web Developer and <br>currently an AppSheet Automation Specialist. Proficient in the VILT/TALL stack and backend development.
 
 
 ## 🌐 Socials:
